@@ -329,7 +329,7 @@ Resources:
            Resource: arn:aws:s3:::cloud-trail-log-bucket-cory-practice
            Condition:
              StringEquals:
-               aws:SourceArn:  arn:aws:cloudtrail:us-east-1:514190630168:trail/LabTrail #replace with account id
+               aws:SourceArn:  arn:aws:cloudtrail:us-east-1:514190630168:trail/LabTrail #replace with account id (account ids not valid)
           
          - Effect: Allow
            Principal:
