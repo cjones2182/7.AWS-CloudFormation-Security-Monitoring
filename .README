@@ -1,8 +1,0 @@
-This project focuses on the logging of the AWS infrastructure we've created in previous projects. The project consists of the following resources:
-
-- VPC
-- Public/Private Subnets
-- Internet Gateway
-- NAT Gateway in Public Subnets
-- Public/Private Route Tables
-- ALB/EC2
